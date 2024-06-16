@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Đã chỉnh sửa từ trên github!</h1>
+        <h1>Change on locally!</h1>
     </body>
 </html>
