@@ -1,0 +1,25 @@
+# Ignore build and dist folders
+build/
+dist/
+
+# Ignore class files
+*.class
+
+# Ignore IntelliJ IDEA installation files and folders
+.idea/
+*.iml
+
+# Ignore Visual Studio Code installation files and folders
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore temporary operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary compiled files
+*.tmp
+*.bak
+*.swp
